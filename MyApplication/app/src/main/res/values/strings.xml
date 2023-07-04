@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scrool">A view group that allows the view hierarchy placed within it to be scrolled. Scroll view may have only one direct child placed within it. To add multiple views within the scroll view, make the direct child you add a view group, for example LinearLayout, and place additional views within that LinearLayout.
+
+Scroll view supports vertical scrolling only. For horizontal scrolling, use HorizontalScrollView instead.
+
+Never add a RecyclerView or ListView to a scroll view. Doing so results in poor user interface performance and a poor user experience.
+
+For vertical scrolling, consider NestedScrollView instead of scroll view which offers greater user interface flexibility and support for the material design scrolling patterns.
+
+Material Design offers guidelines on how the appearance of several UI components, including app bars and banners, should respond to gestures.Dispatch a key event to the next view on the focus path. This path runs from the top of the view tree down to the currently focused view. If this view has focus, it will dispatch to itself. Otherwise it will dispatch the next node down the focus path. This method also fires any key listeners.
+croll view supports vertical scrolling only. For horizontal scrolling, use HorizontalScrollView instead.
+
+Never add a RecyclerView or ListView to a scroll view. Doing so results in poor user interface performance and a poor user experience.
+
+For vertical s"</string>
+</resources>
